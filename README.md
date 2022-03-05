@@ -2,7 +2,7 @@
   
 <h3 align="center"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> A passionate frontend developer from India. I am skilled in Web Development and UI/UX Design <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shantanu-Vispute&label=Visitors&color=0e75b6&style=flat" alt="Shantanu-Vispute" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Shantanu-Vispute&label=Visitors&color=0e75b6&style=flat" alt="Shantanu-Vispute" /> </p> -->
 
 
 <img align='right' src="https://media2.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif?cid=ecf05e47qztdtr5j5zmu561r9wv8ojwced5iy14s4gpinqj9&rid=giphy.gif&ct=s">
