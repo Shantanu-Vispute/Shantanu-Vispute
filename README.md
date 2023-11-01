@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://res.cloudinary.com/dcdu4chvv/image/upload/v1688577057/portfolio/Group_4_mbb8qn.png"></img>
+  <img src="https://res.cloudinary.com/dcdu4chvv/image/upload/v1698853381/aFSDAFSA_akco6d.png"></img>
 
 ## 🌐 Socials:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:shantanuvispute02@gmail.com)
